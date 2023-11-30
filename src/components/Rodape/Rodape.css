@@ -1,0 +1,43 @@
+.footer{
+    background-color:  #828282;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.footer ul li{
+    display: inline-block;
+    margin-right: 32px;
+   
+}
+.footer ul li img{
+    width: 100px;
+    
+    border-radius: 25px;
+    box-shadow:8px 8px 16px #DCDCDC ;
+}
+
+
+.footer .logo img{
+    width: 200px;
+    padding: 20px;
+    
+    
+ 
+
+}
+
+.footer p{
+    font-size: 24px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    
+}
+
+.footer ul li:last-child{
+    margin-right: 0;
+    
+}
